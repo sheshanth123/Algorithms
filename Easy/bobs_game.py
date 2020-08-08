@@ -1,4 +1,6 @@
-# Bob is playing a game with himself. He gives himself a list nums. Each round, Bob chooses two elements of the list and replaces them with one positive integer with the same sum as the numbers he selected. Bob declares victory when all of the number in the array are even.
+# Bob is playing a game with himself. He gives himself a list nums. Each round, 
+# Bob chooses two elements of the list and replaces them with one positive integer with the same sum as the numbers he selected. 
+# Bob declares victory when all of the number in the array are even.
 
 # Return the minimum number of rounds Bob must make before he can declare victory, or return -1 if Bob can never declare victory.
 
@@ -37,6 +39,7 @@ class Solution:
         if odd_nums%2 == 0: return odd_nums//2 
         else: return -1
 # Solution
-# We count the number of odd numbers in the list. If we sum two odd numbers together, the result will be even - so the optimal number of moves if the number of odds is divisible by two.
+# We count the number of odd numbers in the list. If we sum two odd numbers together, the result will be even - 
+# so the optimal number of moves if the number of odds is divisible by two.
 
 # If there is an odd number of odd numbers - we get stuck with one odd number at the end we can't get rid of.
