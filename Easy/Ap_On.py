@@ -51,6 +51,7 @@ Explanation 2:
 
  There is no way to reorder the elements to obtain an arithmetic progression.
 """
+# O(3N) ~ O(N) solution
 class Solution:
     # @param A : list of integers
     # @return an integer
