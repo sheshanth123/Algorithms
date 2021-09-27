@@ -1,3 +1,15 @@
+#O(n^2) time
+#O(1) space
+class Solution:
+
+    def findDuplicates(self, A):
+
+        for currIndex in range(len(A)):
+            for j in range(currIndex+1, len(A)):
+                if A[currIndex] == A[j]:
+                    return A[currIndex]
+        return None
+
 #O(nlogn) time
 #O(1) space
 class Solution:
