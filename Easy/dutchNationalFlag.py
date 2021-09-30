@@ -19,17 +19,23 @@ class Solution:
         boundryLeft = 0
         boundryRight = lenA-1
 
-        for elemIndex in range(lenA):
+        elemIndex = 0
+
+        while(elemIndex<=boundryRight):
             if A[elemIndex] < pivot:
                 A[elemIndex], A[boundryLeft] = self.swap(A[elemIndex], A[boundryLeft])
                 boundryLeft += 1
+                elemIndex+=1
+
             elif A[elemIndex] > pivot:
                 A[elemIndex], A[boundryRight] = self.swap(A[elemIndex], A[boundryRight])
                 boundryRight -= 1
+            else:
+                elemIndex +=1
         return A
 
 sol = Solution()
-A = [0, 0,0,2,5,-1,2,2,0,4,-2,0]
-pivot = 2
+A = [3,2,1,4,3,6,7,5]
+pivot = 4
 output = sol.solve(A, pivot)
 print(output)
