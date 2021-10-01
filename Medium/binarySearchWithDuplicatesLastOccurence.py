@@ -7,7 +7,7 @@ class Solution:
         while(start <= end):
             mid = start + (end-start)//2
 
-            if (A[mid] < target) or (A[mid] == target and A[start+1] == target):
+            if (A[mid] < target) or (A[mid] == target and start < (len(A)-1) and  A[start+1] == target):
                 start = mid+1
             elif A[mid] >  target:
                 end = mid-1
