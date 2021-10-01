@@ -6,7 +6,7 @@ class Solution:
         end = len(A)-1
 
         while(start <= end):
-            mid = (start + (end-start))//2
+            mid = start + (end-start))//2
 
             if (A[mid] > target) or (A[mid] == target and mid != 0 and A[mid-1] == target):
                 end = mid-1
