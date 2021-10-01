@@ -1,3 +1,6 @@
+# time -> O(logn)
+# space - > O(1)
+
 class Solution:
     def solve(self, A, target):
         mid = 0
