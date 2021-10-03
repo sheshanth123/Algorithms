@@ -1,8 +1,5 @@
 class Solution:
 
-    def calcNearestRecord(self, inp, target):
-        return abs(target-inp)
-
     def solve(self, A, target):
 
         start, end = 0, len(A)-1
