@@ -11,3 +11,7 @@ https://github.com/sheshanth123/Algorithms/blob/master/Easy/stackUsingLinkedList
 \
 https://leetcode.com/problems/logger-rate-limiter \
 https://github.com/sheshanth123/Algorithms/blob/master/Medium/loggerLimiter.py \
+
+- [x] 11/10/2021 \
+https://leetcode.com/problems/valid-parentheses  \
+https://github.com/sheshanth123/Algorithms/blob/master/Easy/validParenthesis.py
