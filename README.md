@@ -15,3 +15,7 @@ https://github.com/sheshanth123/Algorithms/blob/master/Medium/loggerLimiter.py \
 - [x] 11/10/2021 \
 https://leetcode.com/problems/valid-parentheses  \
 https://github.com/sheshanth123/Algorithms/blob/master/Easy/validParenthesis.py
+
+- [x] 15/10/2021 \
+https://leetcode.com/problems/design-hit-counter \
+https://github.com/sheshanth123/Algorithms/blob/master/Easy/hitCounter.py
