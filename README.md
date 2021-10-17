@@ -19,3 +19,7 @@ https://github.com/sheshanth123/Algorithms/blob/master/Easy/validParenthesis.py
 - [x] 15/10/2021 \
 https://leetcode.com/problems/design-hit-counter \
 https://github.com/sheshanth123/Algorithms/blob/master/Easy/hitCounter.py
+
+- [x] 17/10/2021 \
+https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray \
+https://github.com/sheshanth123/Algorithms/blob/master/Easy/maxAbsSubArray.py
