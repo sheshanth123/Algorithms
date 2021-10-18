@@ -26,4 +26,7 @@ https://github.com/sheshanth123/Algorithms/blob/master/Easy/maxAbsSubArray.py
 
 - [x] 18/10/2021 \
 https://leetcode.com/problems/unique-email-addresses \
-https://github.com/sheshanth123/Algorithms/blob/master/Easy/uniqueEmailAddresses.py
+https://github.com/sheshanth123/Algorithms/blob/master/Easy/uniqueEmailAddresses.py \
+\
+https://leetcode.com/problems/minimize-maximum-pair-sum-in-array \
+https://github.com/sheshanth123/Algorithms/blob/master/Medium/minPairSum.py
