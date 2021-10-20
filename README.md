@@ -43,4 +43,7 @@ https://leetcode.com/problems/two-sum \
 https://github.com/sheshanth123/Algorithms/blob/master/Easy/twoSumNonUniqueElements.py \
 \
 https://leetcode.com/problems/two-sum-iii-data-structure-design \
-https://github.com/sheshanth123/Algorithms/blob/master/Easy/twoSumDs.py
+https://github.com/sheshanth123/Algorithms/blob/master/Easy/twoSumDs.py \
+\
+https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards \
+https://github.com/sheshanth123/Algorithms/blob/master/Medium/maxScore.py
