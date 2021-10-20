@@ -33,8 +33,8 @@ https://github.com/sheshanth123/Algorithms/blob/master/Medium/minPairSum.py
 
 - [x] 19/10/2021 \
 https://leetcode.com/problems/longest-substring-without-repeating-characters \
-https://github.com/sheshanth123/Algorithms/blob/master/Medium/lengthOfLongestSubstring.py
-
+https://github.com/sheshanth123/Algorithms/blob/master/Medium/lengthOfLongestSubstring.py \
+\
 https://github.com/sheshanth123/Algorithms/blob/master/Easy/maxArea.py \
 https://leetcode.com/problems/container-with-most-water 
 
