@@ -39,3 +39,5 @@ https://github.com/sheshanth123/Algorithms/blob/master/Easy/maxArea.py \
 https://leetcode.com/problems/container-with-most-water 
 
 - [x] 20/10/2021 \ 
+https://leetcode.com/problems/two-sum \
+https://github.com/sheshanth123/Algorithms/blob/master/Easy/twoSumNonUniqueElements.py
