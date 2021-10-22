@@ -23,6 +23,7 @@ class Solution:
     
     
 """
+iterating through string in reverse
 time O(M+N)
 space O(1)
 """
