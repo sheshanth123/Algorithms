@@ -51,3 +51,7 @@ https://github.com/sheshanth123/Algorithms/blob/master/Medium/maxScore.py
 - [x] 22/10/2021 \
 https://leetcode.com/problems/backspace-string-compare \ 
 https://github.com/sheshanth123/Algorithms/blob/master/Easy/backspaceCompare.py
+
+- [x] 25/10/2021 \ 
+https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array \
+https://github.com/sheshanth123/Algorithms/blob/master/Medium/searchRange.py
