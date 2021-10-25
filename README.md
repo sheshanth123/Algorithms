@@ -49,7 +49,7 @@ https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards \
 https://github.com/sheshanth123/Algorithms/blob/master/Medium/maxScore.py
 
 - [x] 22/10/2021 \
-https://leetcode.com/problems/backspace-string-compare \ 
+https://leetcode.com/problems/backspace-string-compare \
 https://github.com/sheshanth123/Algorithms/blob/master/Easy/backspaceCompare.py
 
 - [x] 25/10/2021 \
