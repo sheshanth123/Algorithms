@@ -54,4 +54,7 @@ https://github.com/sheshanth123/Algorithms/blob/master/Easy/backspaceCompare.py
 
 - [x] 25/10/2021 \ 
 https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array \
-https://github.com/sheshanth123/Algorithms/blob/master/Medium/searchRange.py
+https://github.com/sheshanth123/Algorithms/blob/master/Medium/searchRange.py \
+\
+https://leetcode.com/problems/merge-intervals/ \
+https://github.com/sheshanth123/Algorithms/blob/master/Easy/mergeIntervals.py
