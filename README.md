@@ -57,4 +57,7 @@ https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-
 https://github.com/sheshanth123/Algorithms/blob/master/Medium/searchRange.py \
 \
 https://leetcode.com/problems/merge-intervals/ \
-https://github.com/sheshanth123/Algorithms/blob/master/Easy/mergeIntervals.py
+https://github.com/sheshanth123/Algorithms/blob/master/Easy/mergeIntervals.py \
+\
+https://leetcode.com/problems/peak-index-in-a-mountain-array/ \
+https://github.com/sheshanth123/Algorithms/blob/master/Easy/peakIndexInMountainArray.py
