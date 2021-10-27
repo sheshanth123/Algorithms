@@ -61,3 +61,7 @@ https://github.com/sheshanth123/Algorithms/blob/master/Easy/mergeIntervals.py \
 \
 https://leetcode.com/problems/peak-index-in-a-mountain-array/ \
 https://github.com/sheshanth123/Algorithms/blob/master/Easy/peakIndexInMountainArray.py
+
+- [x] 27/10/2021 \
+https://leetcode.com/problems/valid-anagram \
+https://github.com/sheshanth123/Algorithms/blob/master/Easy/isAnagram.py
