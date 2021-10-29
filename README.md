@@ -65,6 +65,6 @@ https://github.com/sheshanth123/Algorithms/blob/master/Easy/peakIndexInMountainA
 - [x] 27/10/2021 \
 https://leetcode.com/problems/valid-anagram \
 https://github.com/sheshanth123/Algorithms/blob/master/Easy/isAnagram.py \
-\
+
 - [x] 29/10/2021 \
 https://github.com/sheshanth123/Algorithms/blob/master/Easy/graphImplementation.py
