@@ -68,3 +68,6 @@ https://github.com/sheshanth123/Algorithms/blob/master/Easy/isAnagram.py \
 
 - [x] 29/10/2021 \
 https://github.com/sheshanth123/Algorithms/blob/master/Easy/graphImplementation.py
+
+- [x] 1/11/2021 \
+https://github.com/sheshanth123/Algorithms/blob/master/Easy/maximumDifference.py
