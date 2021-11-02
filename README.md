@@ -72,4 +72,6 @@ https://github.com/sheshanth123/Algorithms/blob/master/Easy/graphImplementation.
 - [x] 1/11/2021 \
 https://github.com/sheshanth123/Algorithms/blob/master/Easy/maximumDifference.py \
 \
-https://github.com/sheshanth123/Algorithms/blob/master/Easy/dfs.py
+https://github.com/sheshanth123/Algorithms/blob/master/Easy/dfs.py \
+\
+https://github.com/sheshanth123/Algorithms/blob/master/Easy/dfsNbfs.py
