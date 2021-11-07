@@ -78,3 +78,7 @@ https://github.com/sheshanth123/Algorithms/blob/master/Easy/dfsNbfs.py
 
 - [x] 4/11/2021 \
 https://github.com/sheshanth123/Algorithms/blob/master/Medium/curriedArguments.py
+
+- [x] 7/11/2021 \
+https://leetcode.com/problems/permutations \
+https://github.com/sheshanth123/Algorithms/blob/master/Medium/permutations.py
