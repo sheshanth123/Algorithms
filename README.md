@@ -81,4 +81,7 @@ https://github.com/sheshanth123/Algorithms/blob/master/Medium/curriedArguments.p
 
 - [x] 7/11/2021 \
 https://leetcode.com/problems/permutations \
-https://github.com/sheshanth123/Algorithms/blob/master/Medium/permutations.py
+https://github.com/sheshanth123/Algorithms/blob/master/Medium/permutations.py \
+\
+https://leetcode.com/problems/combinations/ \
+https://github.com/sheshanth123/Algorithms/blob/master/Medium/combinations.py
