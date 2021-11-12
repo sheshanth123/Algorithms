@@ -85,3 +85,7 @@ https://github.com/sheshanth123/Algorithms/blob/master/Medium/permutations.py \
 \
 https://leetcode.com/problems/combinations/ \
 https://github.com/sheshanth123/Algorithms/blob/master/Medium/combinations.py
+
+- [x] 12/11/2021 \
+https://leetcode.com/problems/peeking-iterator \
+https://github.com/sheshanth123/Algorithms/blob/master/Medium/peekingIterator.py
