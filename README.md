@@ -89,3 +89,7 @@ https://github.com/sheshanth123/Algorithms/blob/master/Medium/combinations.py
 - [x] 12/11/2021 \
 https://leetcode.com/problems/peeking-iterator \
 https://github.com/sheshanth123/Algorithms/blob/master/Medium/peekingIterator.py
+
+- [x] 15/11/2021 \
+https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/ \
+https://github.com/sheshanth123/Algorithms/blob/master/Medium/minDifference.py
