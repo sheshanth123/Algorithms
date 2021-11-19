@@ -94,6 +94,10 @@ https://github.com/sheshanth123/Algorithms/blob/master/Medium/peekingIterator.py
 https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/ \
 https://github.com/sheshanth123/Algorithms/blob/master/Medium/minDifference.py
 
-- [x] 16/1//2021 \
+- [x] 16/1/2021 \
 https://github.com/sheshanth123/Algorithms/blob/master/Medium/pancakeSort.py \
 https://leetcode.com/problems/pancake-sorting
+
+- [x] 19/11/2021 \
+https://leetcode.com/problems/number-of-islands \
+https://github.com/sheshanth123/Algorithms/blob/master/Medium/numIslands.py
