@@ -104,3 +104,7 @@ https://github.com/sheshanth123/Algorithms/blob/master/Medium/numIslands.py \
 \
 https://github.com/sheshanth123/Algorithms/blob/master/Medium/asteroidCollision.py \
 https://leetcode.com/problems/asteroid-collision
+
+- [x] 21/11/2021 \
+https://leetcode.com/problems/daily-temperatures/ \
+https://github.com/sheshanth123/Algorithms/blob/master/Medium/dailyTemperatures.py
