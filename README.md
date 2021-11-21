@@ -109,4 +109,5 @@ https://leetcode.com/problems/asteroid-collision
 https://leetcode.com/problems/daily-temperatures/ \
 https://github.com/sheshanth123/Algorithms/blob/master/Medium/dailyTemperatures.py \
 \
-https://leetcode.com/problems/best-sightseeing-pair
+https://leetcode.com/problems/best-sightseeing-pair \
+https://github.com/sheshanth123/Algorithms/blob/master/Medium/maxScoreSightseeingPair.py
