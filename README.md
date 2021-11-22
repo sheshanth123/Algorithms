@@ -110,4 +110,7 @@ https://leetcode.com/problems/daily-temperatures/ \
 https://github.com/sheshanth123/Algorithms/blob/master/Medium/dailyTemperatures.py \
 \
 https://leetcode.com/problems/best-sightseeing-pair \
-https://github.com/sheshanth123/Algorithms/blob/master/Medium/maxScoreSightseeingPair.py
+https://github.com/sheshanth123/Algorithms/blob/master/Medium/maxScoreSightseeingPair.py \
+\
+- [x] 22/11/2021 \
+https://github.com/sheshanth123/Algorithms/blob/master/Easy/simplePatternMatching.py
