@@ -113,4 +113,8 @@ https://leetcode.com/problems/best-sightseeing-pair \
 https://github.com/sheshanth123/Algorithms/blob/master/Medium/maxScoreSightseeingPair.py \
 \
 - [x] 22/11/2021 \
-https://github.com/sheshanth123/Algorithms/blob/master/Easy/simplePatternMatching.py
+https://github.com/sheshanth123/Algorithms/blob/master/Easy/simplePatternMatching.py \
+\
+- [x] 24/11/2021 \
+https://github.com/sheshanth123/Algorithms/blob/master/Medium/longestPalindrome.py \
+https://leetcode.com/problems/longest-palindromic-substring/
