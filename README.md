@@ -124,4 +124,7 @@ https://leetcode.com/problems/house-robber \
 \
 - [x] 26/11/2021 \
 https://leetcode.com/problems/min-cost-climbing-stairs \
-https://github.com/sheshanth123/Algorithms/blob/master/Medium/minCostClimbingStairs.py
+https://github.com/sheshanth123/Algorithms/blob/master/Medium/minCostClimbingStairs.py \
+\
+https://leetcode.com/problems/n-th-tribonacci-number \
+https://github.com/sheshanth123/Algorithms/blob/master/Easy/tribonacci.py
