@@ -29,3 +29,20 @@ class Solution:
         memoize = {} 
         top = len(cost)      
         return self.dp(cost, top , memoize)
+    
+# bottom up O(1) space
+
+class Solution:
+    def minCostClimbingStairs(self, cost: List[int]) -> int:
+        
+        costAtn1 = 0
+        costAtn2 = 0
+        
+        lenCost = len(cost)
+        
+        for elemIndex in range(2, lenCost+1):
+            newCost = min(costAtn1+ cost[elemIndex-1], costAtn2+cost[elemIndex-2])
+            
+            costAtn2, costAtn1 = costAtn1, newCost 
+            
+        return costAtn1
