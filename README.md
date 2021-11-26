@@ -120,4 +120,8 @@ https://github.com/sheshanth123/Algorithms/blob/master/Medium/longestPalindrome.
 https://leetcode.com/problems/longest-palindromic-substring/ \
 \
 https://github.com/sheshanth123/Algorithms/blob/master/Medium/rob.py \
-https://leetcode.com/problems/house-robber
+https://leetcode.com/problems/house-robber \
+\
+- [x] 26/11/2021 \
+https://leetcode.com/problems/min-cost-climbing-stairs \
+https://github.com/sheshanth123/Algorithms/blob/master/Medium/minCostClimbingStairs.py
