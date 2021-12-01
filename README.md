@@ -127,4 +127,8 @@ https://leetcode.com/problems/min-cost-climbing-stairs \
 https://github.com/sheshanth123/Algorithms/blob/master/Medium/minCostClimbingStairs.py \
 \
 https://leetcode.com/problems/n-th-tribonacci-number \
-https://github.com/sheshanth123/Algorithms/blob/master/Easy/tribonacci.py
+https://github.com/sheshanth123/Algorithms/blob/master/Easy/tribonacci.py \
+
+- [x] 2/12/2021 \
+https://github.com/sheshanth123/Algorithms/blob/master/Easy/reverseStringRecursion.py \
+https://leetcode.com/problems/reverse-string/ \
