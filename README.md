@@ -132,3 +132,6 @@ https://github.com/sheshanth123/Algorithms/blob/master/Easy/tribonacci.py \
 - [x] 2/12/2021 \
 https://github.com/sheshanth123/Algorithms/blob/master/Easy/reverseStringRecursion.py \
 https://leetcode.com/problems/reverse-string/ \
+\
+https://leetcode.com/problems/swap-nodes-in-pairs/ \
+https://github.com/sheshanth123/Algorithms/blob/master/Easy/swapPairs.py
