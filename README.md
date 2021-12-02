@@ -137,4 +137,7 @@ https://leetcode.com/problems/swap-nodes-in-pairs/ \
 https://github.com/sheshanth123/Algorithms/blob/master/Easy/swapPairs.py \
 \
 https://leetcode.com/problems/reverse-linked-list/ \
-https://github.com/sheshanth123/Algorithms/blob/master/Easy/reverseListRecur.py
+https://github.com/sheshanth123/Algorithms/blob/master/Easy/reverseListRecur.py \
+\
+https://github.com/sheshanth123/Algorithms/blob/master/Easy/searchBST.py \
+https://leetcode.com/problems/search-in-a-binary-search-tree
