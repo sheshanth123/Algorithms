@@ -143,4 +143,7 @@ https://github.com/sheshanth123/Algorithms/blob/master/Easy/searchBST.py \
 https://leetcode.com/problems/search-in-a-binary-search-tree \
 \
 https://github.com/sheshanth123/Algorithms/blob/master/Easy/pascalsTriangle.py \
-https://leetcode.com/problems/pascals-triangle
+https://leetcode.com/problems/pascals-triangle \
+\
+https://github.com/sheshanth123/Algorithms/blob/master/Easy/pascalsTriangleII.py \
+https://leetcode.com/problems/pascals-triangle-ii
