@@ -16,5 +16,28 @@ class Solution:
             triangle.append(row)
             
         return triangle
+    
+
+# using recursion
+
+class Solution:
+    def generateHelper(self, numRows, currRow, triangle):
+        if currRow == numRows:
+            return triangle
+        
+        row = [0] * (currRow+1)
+        
+        row[0], row[-1] = 1,1
+        
+        for colNum in range(1, len(row)-1):
+            row[colNum] = triangle[currRow-1][colNum-1] + triangle[currRow-1][colNum]
+        triangle.append(row)
+        return self.generateHelper(numRows, currRow+1, triangle)
+    
+    def generate(self, numRows: int) -> List[List[int]]:
+        triangle = []
+        
+        self.generateHelper(numRows, 0, triangle)
+        return triangle
             
         
