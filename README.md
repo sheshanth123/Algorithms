@@ -140,4 +140,7 @@ https://leetcode.com/problems/reverse-linked-list/ \
 https://github.com/sheshanth123/Algorithms/blob/master/Easy/reverseListRecur.py \
 \
 https://github.com/sheshanth123/Algorithms/blob/master/Easy/searchBST.py \
-https://leetcode.com/problems/search-in-a-binary-search-tree
+https://leetcode.com/problems/search-in-a-binary-search-tree \
+\
+https://github.com/sheshanth123/Algorithms/blob/master/Easy/pascalsTriangle.py \
+https://leetcode.com/problems/pascals-triangle
