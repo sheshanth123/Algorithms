@@ -150,4 +150,7 @@ https://leetcode.com/problems/pascals-triangle-ii \
 
 - [x] 3/12/2021 \
 https://leetcode.com/problems/climbing-stairs \
-https://github.com/sheshanth123/Algorithms/blob/master/Easy/climbStairs.py
+https://github.com/sheshanth123/Algorithms/blob/master/Easy/climbStairs.py \
+\
+https://github.com/sheshanth123/Algorithms/blob/master/Easy/maxDepth.py \
+https://leetcode.com/problems/maximum-depth-of-binary-tree
