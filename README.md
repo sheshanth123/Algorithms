@@ -153,4 +153,7 @@ https://leetcode.com/problems/climbing-stairs \
 https://github.com/sheshanth123/Algorithms/blob/master/Easy/climbStairs.py \
 \
 https://github.com/sheshanth123/Algorithms/blob/master/Easy/maxDepth.py \
-https://leetcode.com/problems/maximum-depth-of-binary-tree
+https://leetcode.com/problems/maximum-depth-of-binary-tree \
+\
+https://leetcode.com/problems/powx-n \
+https://github.com/sheshanth123/Algorithms/blob/master/Easy/myPow.py
