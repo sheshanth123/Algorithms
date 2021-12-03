@@ -146,4 +146,8 @@ https://github.com/sheshanth123/Algorithms/blob/master/Easy/pascalsTriangle.py \
 https://leetcode.com/problems/pascals-triangle \
 \
 https://github.com/sheshanth123/Algorithms/blob/master/Easy/pascalsTriangleII.py \
-https://leetcode.com/problems/pascals-triangle-ii
+https://leetcode.com/problems/pascals-triangle-ii \
+
+- [x] 3/12/2021 \
+https://leetcode.com/problems/climbing-stairs \
+https://github.com/sheshanth123/Algorithms/blob/master/Easy/climbStairs.py
