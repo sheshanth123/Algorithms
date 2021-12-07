@@ -156,4 +156,12 @@ https://github.com/sheshanth123/Algorithms/blob/master/Easy/maxDepth.py \
 https://leetcode.com/problems/maximum-depth-of-binary-tree \
 \
 https://leetcode.com/problems/powx-n \
-https://github.com/sheshanth123/Algorithms/blob/master/Easy/myPow.py
+https://github.com/sheshanth123/Algorithms/blob/master/Easy/myPow.py \
+\
+- [x] 4/12/2021 \
+https://leetcode.com/problems/merge-two-sorted-lists \
+\
+- [x] 7/12/2021 \
+https://github.com/sheshanth123/Algorithms/blob/master/Easy/preorder.py \
+https://leetcode.com/problems/n-ary-tree-preorder-traversal
+
