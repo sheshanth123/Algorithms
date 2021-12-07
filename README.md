@@ -166,5 +166,8 @@ https://github.com/sheshanth123/Algorithms/blob/master/Easy/preorder.py \
 https://leetcode.com/problems/n-ary-tree-preorder-traversal \
 \
 https://leetcode.com/problems/n-ary-tree-postorder-traversal \
-https://github.com/sheshanth123/Algorithms/blob/master/Easy/postorder.py
+https://github.com/sheshanth123/Algorithms/blob/master/Easy/postorder.py \
+\
+https://github.com/sheshanth123/Algorithms/blob/master/Easy/postorderTraversal.py \
+https://leetcode.com/problems/binary-tree-postorder-traversal \
 
