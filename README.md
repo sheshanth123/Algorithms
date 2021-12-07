@@ -170,4 +170,6 @@ https://github.com/sheshanth123/Algorithms/blob/master/Easy/postorder.py \
 \
 https://github.com/sheshanth123/Algorithms/blob/master/Easy/postorderTraversal.py \
 https://leetcode.com/problems/binary-tree-postorder-traversal \
-
+\
+https://leetcode.com/problems/binary-tree-inorder-traversal \
+https://github.com/sheshanth123/Algorithms/blob/master/Easy/inorderTraversal.py \
