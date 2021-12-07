@@ -163,5 +163,8 @@ https://leetcode.com/problems/merge-two-sorted-lists \
 \
 - [x] 7/12/2021 \
 https://github.com/sheshanth123/Algorithms/blob/master/Easy/preorder.py \
-https://leetcode.com/problems/n-ary-tree-preorder-traversal
+https://leetcode.com/problems/n-ary-tree-preorder-traversal \
+\
+https://leetcode.com/problems/n-ary-tree-postorder-traversal \
+https://github.com/sheshanth123/Algorithms/blob/master/Easy/postorder.py
 
