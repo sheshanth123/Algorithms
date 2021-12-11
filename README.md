@@ -173,3 +173,7 @@ https://leetcode.com/problems/binary-tree-postorder-traversal \
 \
 https://leetcode.com/problems/binary-tree-inorder-traversal \
 https://github.com/sheshanth123/Algorithms/blob/master/Easy/inorderTraversal.py \
+
+- [x] 11/12/2021 \
+https://leetcode.com/problems/n-ary-tree-level-order-traversal \
+https://github.com/sheshanth123/Algorithms/blob/master/Medium/levelOrder.py \
