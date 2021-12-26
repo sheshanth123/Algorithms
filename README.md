@@ -177,3 +177,7 @@ https://github.com/sheshanth123/Algorithms/blob/master/Easy/inorderTraversal.py 
 - [x] 11/12/2021 \
 https://leetcode.com/problems/n-ary-tree-level-order-traversal \
 https://github.com/sheshanth123/Algorithms/blob/master/Medium/levelOrder.py \
+
+- [x] 26/12/2021 \ 
+https://github.com/sheshanth123/Algorithms/blob/master/Easy/nthMagicNumber.py \
+https://www.geeksforgeeks.org/find-nth-magic-number/
